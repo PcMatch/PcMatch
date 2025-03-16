@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Botify](https://botify-bot.de)
+- 🌱 I’m currently learning Python, SQL
+- 💬 Ask me about Python, Discord Bot development
+- 📫 How to reach me: [Discord](https://discord.com/users/921401835145814058)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I started with web development. Because of IT in school I switched to Python and focused on Discord Bot development
